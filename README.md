@@ -18,8 +18,11 @@ Dev Bhoomi Travels aims to become a complete digital tourism ecosystem for Himac
 Project Objective
 The main objective of Dev Bhoomi Travels is to provide travelers with a single platform where they can explore destinations, discover adventure activities, book travel services, and experience the rich culture and natural beauty of Himachal Pradesh with ease and convenience.
  
- 👨‍💻 Developer
-Akshay Kumar
+## 👨‍💻 Developer
 
-📜 License
+**Akshay Kumar**
+
+
+## 📜 License
+
 This project is developed for educational and learning purposes.
