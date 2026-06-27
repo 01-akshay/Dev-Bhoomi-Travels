@@ -1,6 +1,6 @@
 # Dev-Bhoomi-Travels
 Dev Bhoomi Travels is a Himachal Pradesh tourism website that offers tour packages, adventure activities, premium stays, and travel services across popular destinations like Manali, Spiti, Dharamshala, and Kasol. It helps travelers plan memorable journeys with easy booking, expert guidance, and customized travel experiences.
-Dev Bhoomi Travels is a modern tourism and travel platform dedicated to showcasing the breathtaking beauty, culture, and adventure of Himachal Pradesh. The website offers curated tour packages to popular destinations such as Manali, Spiti Valley, Lahaul, Dharamshala, Kasol, Kullu, Sissu, and Baralacha La. Along with travel packages, it provides adventure experiences like paragliding, river rafting, trekking, camping, skiing, ATV rides, ziplining, and biking expeditions. The platform also offers premium hotel bookings, cab services, camping equipment, and professional travel guides, ensuring a comfortable and memorable travel experience for every visitor.
+ Dev Bhoomi Travels is a modern tourism and travel platform dedicated to showcasing the breathtaking beauty, culture, and adventure of Himachal Pradesh. The website offers curated tour packages to popular destinations such as Manali, Spiti Valley, Lahaul, Dharamshala, Kasol, Kullu, Sissu, and Baralacha La. Along with travel packages, it provides adventure experiences like paragliding, river rafting, trekking, camping, skiing, ATV rides, ziplining, and biking expeditions. The platform also offers premium hotel bookings, cab services, camping equipment, and professional travel guides, ensuring a comfortable and memorable travel experience for every visitor.
 
 Key Features
 
@@ -17,3 +17,4 @@ Dev Bhoomi Travels aims to become a complete digital tourism ecosystem for Himac
 
 Project Objective
 The main objective of Dev Bhoomi Travels is to provide travelers with a single platform where they can explore destinations, discover adventure activities, book travel services, and experience the rich culture and natural beauty of Himachal Pradesh with ease and convenience.
+ 
